@@ -1,3 +1,7 @@
+This bot was made for relabs.host ! 
+A tutorial will be up soon
+
+
 # Discord-ticketbot
 
 Bored of seeing those paid Discord ticket bots out there? You finally have a chance to self-host your own ticket bot just for free. This bot is exactly like that, it can create tickets, close tickets, add people in the ticket and lots more if you intend to modify it. After all it has the MIT license.
